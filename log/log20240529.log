@@ -1,0 +1,4 @@
+time="2024-05-29 16:22:31" level=info ClientIP="::1" DataSize=0 HostName=DonCZ Method=POST Path=/api/v1/login SPendTime="1 ms" StatusCode=200 UserAgent="Apipost/8.0.0 (https://www.apipost.cn)"
+{"ClientIP":"::1","DataSize":0,"HostName":"DonCZ","Method":"POST","Path":"/api/v1/login","SPendTime":"1 ms","StatusCode":200,"UserAgent":"Apipost/8.0.0 (https://www.apipost.cn)","level":"info","msg":"","time":"2024-05-29T16:22:31+08:00"}
+time="2024-05-29 16:22:42" level=info ClientIP="::1" DataSize=0 HostName=DonCZ Method=POST Path=/api/v1/login SPendTime="1 ms" StatusCode=200 UserAgent="Apipost/8.0.0 (https://www.apipost.cn)"
+{"ClientIP":"::1","DataSize":0,"HostName":"DonCZ","Method":"POST","Path":"/api/v1/login","SPendTime":"1 ms","StatusCode":200,"UserAgent":"Apipost/8.0.0 (https://www.apipost.cn)","level":"info","msg":"","time":"2024-05-29T16:22:42+08:00"}
